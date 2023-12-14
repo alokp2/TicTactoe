@@ -1,0 +1,2 @@
+Tic Tac Toe is a strategic game of wits and tactics played on a 3x3 grid. Players take turns placing their symbol, 'X' or 'O', aiming to create a winning sequence of three in a row, whether horizontally, vertically, or diagonally. 
+It's a beautifully simple yet endlessly captivating game that invites strategic planning, quick thinking, and a dash of foresight, making every move crucial in the quest for victory.
